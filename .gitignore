@@ -1,0 +1,41 @@
+# Скомпилированные файлы
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.pdb
+
+# Тестовые данные (генерируются программой)
+data_*.json
+
+# Временные файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE файлы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи и дампы
+*.log
+*.dump
+
+# OS generated files
+.DS_Store
+.DS_Store?
+
+# Папки сборки
+build/
+release/
+bin/
+obj/
+Debug/
+Release/
+
+# src/
+# docs/
+# README.md
